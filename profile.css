@@ -1,0 +1,71 @@
+
+            
+            *{
+                margin: 0px;
+                padding: 0px;
+                
+            }
+            header{
+                padding: 10px 5px;
+                border-bottom: 1px solid black;
+            }
+            header,#about{
+                background-color: blanchedalmond;
+            }
+            #about{
+                text-align: center;
+                
+            }
+            #about div{
+                display:inline-block;
+                vertical-align: middle;
+                margin: 20px auto;
+
+            }
+            #about p,#about h1,#about h3 {
+                text-align: left;
+                margin-top: 6px;
+            }
+            #about p{
+                max-width: 500px;
+            }
+            #about img{
+                height: 300px;
+            }
+            #myskills{
+                text-align: center;
+                margin: 20px auto;
+            }
+            #myskills h2,#hobby h2{
+                font-size: xx-large;
+            }
+            #myskills img{
+                height: 100px;
+                margin-top: 10px;
+            }
+            #hobby{
+                text-align: center;
+            }
+
+           .hob{
+                border: 4px double purple;
+                background-color: blanchedalmond;
+                margin: 20px 10px;
+                padding: 20px;
+                text-align: center;
+                padding: 20px;
+
+            }
+            #hobby p{
+                max-width: 300px;
+            }
+            footer{
+                text-align: center;
+                margin: 20px auto;
+            }
+            footer img{
+                height: 30px;
+                margin: 5px ;
+            }
+    
+    
