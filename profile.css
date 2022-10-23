@@ -18,8 +18,8 @@
             }
             #about div{
                 display:inline-block;
-                vertical-align: middle;
-                margin: 20px auto;
+                /* vertical-align: middle; */
+             /* margin: 20px auto; */
 
             }
             #about p,#about h1,#about h3 {
@@ -51,7 +51,7 @@
                 border: 4px double purple;
                 background-color: blanchedalmond;
                 margin: 20px 10px;
-                padding: 20px;
+               
                 text-align: center;
                 padding: 20px;
 
